@@ -1,3 +1,2 @@
-# Linux
+# Ubuntu 64-bit
 
-Ubuntu 64-bit
